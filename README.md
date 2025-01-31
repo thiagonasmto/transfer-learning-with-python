@@ -58,4 +58,4 @@ streamlit python -m streamlit run transfer_learning_aplication.py
 
 ## 🔗 Link para o Artigo no Medium
 
-📖 Leia o artigo completo no Medium: **[Clique aqui!]**(https://www.kaggle.com/datasets/vencerlanz09/sea-animals-image-dataste)
+📖 Leia o artigo completo no Medium: [Clique aqui!](https://www.kaggle.com/datasets/vencerlanz09/sea-animals-image-dataste)
