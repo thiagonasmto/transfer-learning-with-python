@@ -26,12 +26,6 @@ git clone https://github.com/thiagonasmto/transfer-learning-with-python.git
 cd transfer-learning-alexnet
 ```
 
-### 2️⃣ Instale as Dependências
-
-```bash
-pip install -r requirements.txt
-```
-
 ### 3️⃣ Baixe o Dataset do Kaggle
 
 Antes de executar o código, certifique-se de configurar suas credenciais do Kaggle para baixar o dataset:
