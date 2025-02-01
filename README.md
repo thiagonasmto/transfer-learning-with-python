@@ -23,7 +23,7 @@ Este repositório contém o código utilizado no artigo do Medium sobre **Transf
 
 ```bash
 git clone https://github.com/thiagonasmto/transfer-learning-with-python.git
-cd transfer-learning-alexnet
+cd transfer-learning-with-python
 ```
 
 ### 3️⃣ Baixe o Dataset do Kaggle
