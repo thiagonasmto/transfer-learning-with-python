@@ -47,7 +47,7 @@ python transfer_learning.py
 ### 5️⃣ Execute a Aplicação Streamlit
 
 ```bash
-streamlit python -m streamlit run transfer_learning_aplication.py
+streamlit python -m streamlit run transfer_learning_application.py
 ```
 
 ## 🔗 Link para o Artigo no Medium
